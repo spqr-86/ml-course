@@ -1,0 +1,1 @@
+* basic_RAG: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/ml-course/blob/extra_lectures/basic_RAG.ipynb)
